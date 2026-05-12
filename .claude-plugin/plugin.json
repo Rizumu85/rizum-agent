@@ -1,19 +1,17 @@
 {
   "name": "rizum-skills",
-  "description": "Structured planning, living documentation, limited self-verification, and bilingual communication guidelines for coding agents.",
-  "version": "1.0.6",
+  "description": "Bilingual communication guideline for AI coding agents: English in files, Chinese in chat summaries.",
+  "version": "2.0.0",
   "author": {
     "name": "rizum"
   },
   "license": "MIT",
   "keywords": [
+    "bilingual",
     "guidelines",
-    "planning",
-    "documentation",
-    "coding-agents",
-    "workflow"
+    "coding-agents"
   ],
   "skills": [
-    "./skills/rizum-guidelines"
+    "./skills/bilingual-guideline"
   ]
 }
