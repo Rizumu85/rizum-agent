@@ -1,3 +1,10 @@
+---
+name: bilingual-guideline
+description: Use only when the user explicitly invokes bilingual-guideline or asks to use Bilingual Guideline. Do not activate automatically for general coding tasks.
+license: MIT
+version: 2.0.0
+---
+
 # Bilingual Guideline
 
 Once activated, this guideline stays active for the entire conversation.
